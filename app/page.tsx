@@ -3614,7 +3614,7 @@ const activities = [
     organization: "City of Portland / Regional Arts & Culture Council",
     dates: "2022",
     description:
-      "Served on review panels for both tracks of a City-funded artist support program administered by RACC, reviewing approximately 170 applications across the two tracks. The Urgency track addressed immediate financial needs; the Stability track supported ongoing creative practice. Applied each track’s distinct criteria, including urgency of need for Urgency applications.",
+      "Served as an external reviewer for both tracks of the City of Portland’s Urgency/Stability Support for Artists program, administered by RACC. Reviewed approximately 170 applications, evaluating artists’ creative practices, community contributions, and funding requests against each track’s criteria, including the Urgency track’s assessment of immediate financial need.",
   },
   {
     title: "Project Grant Panelist — Music Projects",
@@ -3646,17 +3646,18 @@ const awards = [
       "Supported music programming connected to the Columbia River Correctional Institute Music Studio, later named Outta Sight Outta Mind Music, a recording program inside an Oregon state prison operated by Open Hearts Open Minds of Oregon. Contributed audio engineering expertise and explored opportunities to support music mixing, session-file organization, recording techniques, equipment consultation, and music gatherings involving formerly incarcerated participants.",
   },
   {
-    title: "Regional Arts & Culture Council (RACC) — Catalyst Project Grant",
-    dates: "2019",
-    description:
-      "Artist Residency Program Development. Awarded grant funding to launch a pilot artist-residency program at WinterBeast, supporting three local independent and experimental music projects over the course of a year. The program provided free studio access, recording equipment, engineering and production support, and artist stipends, removing financial barriers to recording and creating space for collaborative experimentation. The grant also supported artist receptions intended to connect participating musicians and build community across Portland’s independent music scenes.",
-  },
-  {
     title: "Regional Arts & Culture Council (RACC) — Make|Learn|Build Grant",
     dates: "2022",
     description:
       "Field Recording Equipment and Mobile Recording Development. Awarded grant funding to purchase field-recording equipment and expand WinterBeast’s services beyond the studio during COVID-19. The mobile recording setup was intended to support safer, more accessible recording opportunities for musicians and artists while adapting to pandemic-related restrictions. The expansion also established a foundation for future collaborations involving live performance, sound installations, dance, theater, film, podcasts, and other location-based audio projects.",
   },
+  {
+    title: "Regional Arts & Culture Council (RACC) — Catalyst Project Grant",
+    dates: "2019",
+    description:
+      "Artist Residency Program Development. Awarded grant funding to launch a pilot artist-residency program at WinterBeast, supporting three local independent and experimental music projects over the course of a year. The program provided free studio access, recording equipment, engineering and production support, and artist stipends, removing financial barriers to recording and creating space for collaborative experimentation. The grant also supported artist receptions intended to connect participating musicians and build community across Portland’s independent music scenes.",
+  },
+  
 ];
 
 function SectionHeading({
