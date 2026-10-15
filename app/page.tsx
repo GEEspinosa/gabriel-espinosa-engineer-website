@@ -3755,7 +3755,7 @@ export default function Home() {
 
           <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm">
             <a
-              href="https://winter-beast-studio-site.vercel.app/"
+              href="https://winterbeastpdx.com/"
               target="_blank"
               rel="noreferrer"
               className="underline decoration-[#c8c4ba] underline-offset-4 hover:decoration-[#292824]"
