@@ -3721,9 +3721,9 @@ export default function Home() {
         <header className="border-b border-[#d9d7d0] pb-9">
           <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-start">
             <div>
-              <p className="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-[#858178]">
+              {/* <p className="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-[#858178]">
                 Professional Archive
-              </p>
+              </p> */}
               <h1 className="text-4xl font-medium tracking-[-0.045em] sm:text-5xl">
                 Gabriel Eduardo Espinosa
               </h1>
