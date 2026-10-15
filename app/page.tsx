@@ -3928,7 +3928,7 @@ export default function Home() {
 
         <section className="py-10">
           <SectionHeading number="07">
-            Arts, Community & Additional Production Credits
+            Arts & Community Engagement
           </SectionHeading>
 
           <div className="divide-y divide-[#e5e2da]">
